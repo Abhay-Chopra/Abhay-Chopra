@@ -2,8 +2,12 @@
 I'm currently a computer science student at the University of Calgary (2nd year).
 
 🔭 I’m currently working on creating a personalized website with React, Chakra UI, and Three.js
+
+
 🌱 I’m currently learning TypeScript and React.
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abhay-chopra/) [Email](abhayc.908@gmail.com)
+
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abhay-chopra/)
 
 
 ![](https://github.com/Abhay-Chopra/readme-stats/blob/master/generated/languages.svg)

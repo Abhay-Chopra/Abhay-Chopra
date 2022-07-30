@@ -20,7 +20,7 @@ I'm currently a 2nd year computer science student at the University of Calgary.
 ![](https://github.com/Abhay-Chopra/readme-stats/blob/master/generated/languages.svg)
 ![](https://github.com/Abhay-Chopra/readme-stats/blob/master/generated/overview.svg)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abhay-Chopra&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abhay-Chopra&theme=buefy&hide_border=true)](https://git.io/streak-stats)
 <!--
 **Abhay-Chopra/Abhay-Chopra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

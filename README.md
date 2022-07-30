@@ -1,5 +1,5 @@
 ### Hi there, I am Abhay Chopra👋
-I'm currently a computer science student at the University of Calgary (2nd year).
+I'm currently a 2nd year computer science student at the University of Calgary.
 
 🔭 I’m currently working on creating a personalized website with React, Chakra UI, and Three.js
 

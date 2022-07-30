@@ -1,15 +1,21 @@
 ### Hi there, I am Abhay Chopra👋
 I'm currently a 2nd year computer science student at the University of Calgary.
 
-🔭 I’m currently working on creating a personalized website with React, Chakra UI, and Three.js
+🔭 I’m currently working on creating a personalized website with React, Chakra UI, and Three.js.
 
 
 🌱 I’m currently learning TypeScript and React.
 
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abhay-chopra/)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abhay-chopra/).
+
+🤔 I’m looking for an internship.
 
 
+💬 Ask me about anything.
+
+
+## Git Analytics
 ![](https://github.com/Abhay-Chopra/readme-stats/blob/master/generated/languages.svg)
 ![](https://github.com/Abhay-Chopra/readme-stats/blob/master/generated/overview.svg)
 

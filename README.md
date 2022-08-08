@@ -17,8 +17,6 @@ I'm currently a 2nd year computer science student at the University of Calgary.
 
 
 ## Git Analytics
-![](https://github.com/Abhay-Chopra/readme-stats/blob/master/generated/languages.svg)
-![](https://github.com/Abhay-Chopra/readme-stats/blob/master/generated/overview.svg)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abhay-Chopra&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 <!--

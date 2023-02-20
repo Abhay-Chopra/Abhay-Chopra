@@ -6,7 +6,7 @@ I'm currently a 2nd year computer science student at the University of Calgary.<
 🌱 I’m currently learning SQL & Django
 <br><br>
 ## My Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abhay-Chopra&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abhay-Chopra&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-Chopra&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Abhay-Chopra/Abhay-Chopra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

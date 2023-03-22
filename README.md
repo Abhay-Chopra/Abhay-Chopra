@@ -7,7 +7,7 @@ I'm currently a 2nd year computer science student at the University of Calgary.<
 <br><br>
 ## My Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=Abhay-Chopra&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-Chopra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-Chopra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Abhay-Chopra/Abhay-Chopra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -2,7 +2,7 @@
 I'm currently a 3rd year computer science student at the University of Calgary.<br>
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abhay-chopra/)<br><br>
-🔭 I’m currently working on creating a Full Stack Careers Page<br><br>
+🔭 I’m currently working on creating a Full Stack Careers Page (React & SpringBoot) <br><br>
 🌱 I’m currently learning SQL, Django, and Spring.
 <br><br>
 ## My Stats:

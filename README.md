@@ -1,9 +1,9 @@
 ### Hi there, I am Abhay Chopra👋<br>
-I'm currently a 2nd year computer science student at the University of Calgary.<br>
+I'm currently a 3rd year computer science student at the University of Calgary.<br>
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abhay-chopra/)<br><br>
-🔭 I’m currently working on creating a drawing interface using Computer Vision (OpenCV)<br><br>
-🌱 I’m currently learning SQL & Django
+🔭 I’m currently working on creating a Full Stack Careers Page<br><br>
+🌱 I’m currently learning SQL, Django, and Spring.
 <br><br>
 ## My Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=Abhay-Chopra&theme=transparent)](https://git.io/streak-stats)

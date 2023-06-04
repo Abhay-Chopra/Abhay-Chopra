@@ -1,5 +1,5 @@
 ### Hi there, I am Abhay Chopra👋<br>
-I'm currently a 2nd year computer science student at the University of Calgary.<br>
+I'm currently a 3rd year computer science student at the University of Calgary.<br>
 
 📫 How to reach me: Email (abhayc.908@gmail.com) <br><br>
 🔭 I’m currently working on creating a Full Stack Careers Page (React & SpringBoot) <br><br>
